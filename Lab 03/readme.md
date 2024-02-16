@@ -1,1 +1,5 @@
-## I mistakenly created a folder and then uploaded the tasks into it, but I also directly uploaded the files. I will delete the folders once you've checked the questions and just keep the files. I'm not doing it right now so you can check the submission time.
+# You may find questions 1 and 2 uploaded twice: once as a file and the second time as a folder. This is because I mistakenly created folders for questions 1 and 2, which I will delete later once you've checked the tasks and tallied the submission time. I prefer uploading the files.
+
+
+
+
